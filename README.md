@@ -1,5 +1,5 @@
 <!-- Masthead Image -->
-<img src="https://github.com/Ayyvahh/Ayyvahh/blob/main/banner5.png" alt="MasterHead" style="width:100%; height:300px; object-fit:cover;">
+<img src="https://github.com/Ayyvahh/Ayyvahh/blob/main/banner5.png" alt="MasterHead" style="width:100%; height:20%; object-fit:cover;">
 
 ## Welcome to My GitHub Profile!
 
