@@ -3,7 +3,7 @@
 
 
 ## Welcome to My GitHub Profile!
-
+<img align="right" src="https://github.com/Ayyvahh/Ayyvahh/blob/main/spaceGuy.gif" style="width:80%; height:80%" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
