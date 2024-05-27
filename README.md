@@ -13,3 +13,12 @@
 ---
 
 ## Completed Course Project Work ✨
+<p align="left">
+    <a href="https://github.com/Ayyvahh/ParisCityRouteFinder"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ayyvahh&repo=ParisCityRouteFinder&hide_border=false&border_color=BB9CF8&bg_color=1F222E&title_color=BB9CF8&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Ayyvahh/RetroGameManagementSystem"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ayyvahh&repo=RetroGameManagementSystem&hide_border=false&border_color=BB9CF8&bg_color=1F222E&title_color=BB9CF8&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+
+</p>
+
+<p align="left">
+  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
