@@ -10,15 +10,52 @@
 <br>
        
 
----
+
 
 ## Completed Course Project Work ✨
-<p align="left">
+<p align="center">
     <a href="https://github.com/Ayyvahh/ParisCityRouteFinder"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ayyvahh&repo=ParisCityRouteFinder&hide_border=false&border_color=BB9CF8&bg_color=1F222E&title_color=BB9CF8&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/Ayyvahh/RetroGameManagementSystem"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ayyvahh&repo=RetroGameManagementSystem&hide_border=false&border_color=BB9CF8&bg_color=1F222E&title_color=BB9CF8&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-
 </p>
 
-<p align="left">
-  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+
+<br>
+
+## Technical Skills I have Learned/Learning 🌱
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="50" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50">
 </p>
+
+
+<br>
+
+## Connect With Me 🌐
+
+<div align="center">
+  <a href="mailto:ayyvah@hotmail.com" style="text-decoration: none;">
+    <img alt="Email" title="Email" src="https://custom-icon-badges.herokuapp.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display: inline-block; background-color: #8a2be2; color: white; padding: 30px 50px; border-radius: 10px; margin-right: 20px; font-size: 18px;">
+  </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/avaneary/" style="text-decoration: none;">
+    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.herokuapp.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" style="display: inline-block; background-color: #0077B5; color: white; padding: 30px 50px; border-radius: 10px; font-size: 18px;">
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
